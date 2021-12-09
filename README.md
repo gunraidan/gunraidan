@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gunraidan
+- 👀 I’m interested in getting a job in software development.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me kiticanax@gmail.com.
